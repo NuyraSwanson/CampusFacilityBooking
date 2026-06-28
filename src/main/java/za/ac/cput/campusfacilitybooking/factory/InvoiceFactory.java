@@ -1,6 +1,6 @@
 package za.ac.cput.campusfacilitybooking.factory;
-
-
+/* Author: Ayren Villet (223120030)
+     Date: 28 June 2026 */
 import za.ac.cput.campusfacilitybooking.domain.Booking;
 import za.ac.cput.campusfacilitybooking.domain.Invoice;
 
