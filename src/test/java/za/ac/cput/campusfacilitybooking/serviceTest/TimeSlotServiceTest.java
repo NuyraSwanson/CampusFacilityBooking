@@ -31,7 +31,7 @@ public class TimeSlotServiceTest {
                 .setTimeSlotId("TS001")
                 .setDate("2026-07-12")
                 .setStartTime("09:00")
-                .setEndTime("12:00")
+                .setEndTime("13:00")
                 .build();
     }
 
